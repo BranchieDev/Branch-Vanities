@@ -6,12 +6,20 @@ An addon for Advanced Company featuring a variety of randomly found and compiled
 *Most of the models used are not mine and are not intended for commercial use.  
 If there's a model of yours that you want to be removed, contact me through **Issues** on GitHub.*
 
-## More info
+## More Info
 The future updates of this mod are aimed to connect various types of cosmetic gears, allowing players to customize their characters in multiple ways. Some accessories are designed for better immersion, while others are added purely for fun, so be creative.  
 *Any ideas are  welcome. Feel free to share them in a separate topic within the **Issues** tab.*
 
 ## Visual Examples
-todo :3
+<img src="https://raw.githubusercontent.com/BranchieDev/Branch-Vanities/master/icons/antlers.jpg" alt="antlers" style="width:150px;"/>
+<img src="https://raw.githubusercontent.com/BranchieDev/Branch-Vanities/master/icons/catbox.jpg" alt="catbox" style="width:150px;"/>
+<img src="https://raw.githubusercontent.com/BranchieDev/Branch-Vanities/master/icons/detectivehat.jpg" alt="detective's hat" style="width:150px;"/>
+<img src="https://raw.githubusercontent.com/BranchieDev/Branch-Vanities/master/icons/kitsunemask.jpg" alt="kitsune mask" style="width:150px;"/>
+<img src="https://raw.githubusercontent.com/BranchieDev/Branch-Vanities/master/icons/mchat.jpg" alt="mchat" style="width:150px;"/>
+<img src="https://raw.githubusercontent.com/BranchieDev/Branch-Vanities/master/icons/nikohat.jpg" alt="niko's hat" style="width:150px;"/>
+<img src="https://raw.githubusercontent.com/BranchieDev/Branch-Vanities/master/icons/riotvisordown.jpg" alt="riot helmet" style="width:150px;"/>
+<img src="https://raw.githubusercontent.com/BranchieDev/Branch-Vanities/master/icons/militaryhelmet.jpg" alt="military helmet" style="width:150px;"/>
+
 
 ## List of Cosmetics
 
