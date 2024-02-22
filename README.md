@@ -20,6 +20,19 @@ The future updates of this mod are aimed to connect various types of cosmetic ge
 
 ## List of Cosmetics
 
+### v. 1.1.0 (new!)
+**Chest slots:**
+- Frieren's Staff
+- Warm Scarf
+- Neco-arc Bread
+
+**Head slots:**
+- Udon Bowl
+- Pomni's Hat
+- Lumberjack's Ushanka
+- Beer Hat
+
+### v. 1.0.0
 **Chest slots:**
 - Travel Backpack
 - Food Delivery Bag
