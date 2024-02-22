@@ -27,6 +27,7 @@ The future updates of this mod are aimed to connect various types of cosmetic ge
 - Neco-arc Bread
 
 **Head slots:**
+- Bunker Spider
 - Udon Bowl
 - Pomni's Hat
 - Lumberjack's Ushanka
@@ -40,6 +41,7 @@ The future updates of this mod are aimed to connect various types of cosmetic ge
 - Cat Pile
 
 **Head slots:**
+- Military Helmet
 - Deer Antlers
 - Miyu's Halo
 - Cat Box
