@@ -1,6 +1,6 @@
 {
     "name": "BranchVanities",
-    "version_number": "1.1.1",
+    "version_number": "1.2.2",
     "website_url": "https://github.com/BranchieDev/Branch-Vanities",
     "description": "Cosmetics pack based around random models for AdvancedCompany.",
     "dependencies": ["PotatoePet-AdvancedCompany-1.1.1"]

@@ -20,7 +20,26 @@ The future updates of this mod are aimed to connect various types of cosmetic ge
 
 ## List of Cosmetics
 
-### v. 1.1.0 (new!)
+### v. 1.2.2 (new!)
+- \* Updated icons for all previously added models that did not have them
+
+### v. 1.2.1 (new!)
+**Chest slots:**
+- Arknights Plush
+- Minecraft Cat
+- Wrapped Jacket
+
+**Head slots:**
+- DD Affiction
+- Beret
+- Burlap Sack
+- Cult Crown
+
+### v. 1.1.1
+- \* Moved "Warm Scarf" to the chest slot
+- \* Removed accidentally added WIP model
+
+### v. 1.1.0
 **Chest slots:**
 - Frieren's Staff
 - Warm Scarf
